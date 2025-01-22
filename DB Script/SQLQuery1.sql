@@ -4,6 +4,7 @@ BEGIN
     CREATE DATABASE OnlineCourseDB;
 END
 ELSE
+
 BEGIN
    DROP DATABASE OnlineCourseDB;
 END
